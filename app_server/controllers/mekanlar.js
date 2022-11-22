@@ -7,7 +7,7 @@ const anaSayfa = function (req, res) {
     {
       "ad":"Starbucks",
       "adres":"Centrum Garden AVM",
-      "puan":"4",
+      "puan":"5",
       "imkanlar": ["Dünya Kahveleri","Kekler","Pastalar"],
       "mesafe":"10km"
     }
@@ -30,7 +30,7 @@ const mekanBilgisi = function (req, res) {
       "mekanDetay": {
         "ad":"Starbucks",
         "adres":"Centrum Garden AVM",
-        "puan":"4",
+        "puan":"5",
         "imkanlar": ["Dünya Kahveleri","Kekler","Pastalar"],
         "koordinatlar": {
            "enlem":"37.83226584629666",
