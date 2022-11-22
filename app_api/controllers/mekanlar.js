@@ -1,5 +1,5 @@
 var mongoose = require("mongoose");
-var Mekan = mongoose.model("mekan");
+var Mekan = mongoose.model("mekanlar");
 const cevapOlustur = function (res, status, content) {
     res.status(status).json(content);
 }
