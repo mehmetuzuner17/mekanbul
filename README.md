@@ -6,5 +6,5 @@
 ### [2. Mekan ID ile Mekan Bilgileri Getir](https://mekanbul5.erensenn.repl.co/api/mekanlar/637cf365b8127395089309a6)
 ![2](./resimler/mekanlar.png)
 
-### [3. Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul5.ilaydaecem.repl.co/api/mekanlar/63724fcedf0f758203a52009/yorumlar/637bae25a9e7712e222badde)
+### [3. Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul5.erensenn.repl.co/api/mekanlar/637cf365b8127395089309a6/yorumlar/637cf372bb4ccf1c298e3901)
 ![3](./resimler/yorumlar.png)
